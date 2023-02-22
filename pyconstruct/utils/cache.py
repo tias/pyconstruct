@@ -1,5 +1,5 @@
 
-from sklearn.externals import joblib
+import joblib
 
 try:
     from cachetools.keys import _kwmark
